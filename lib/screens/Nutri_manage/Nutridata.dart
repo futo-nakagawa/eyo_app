@@ -189,7 +189,6 @@ class NutritionBar extends StatelessWidget {
                     //mainAxisAlignment: MainAxisAlignment.center,
                     children: [
                       Text('$nutrient   :   '),
-                      //SizedBox(width: 0),
                       Text('${value}'),
                     ],
                   ),
